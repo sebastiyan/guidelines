@@ -6,12 +6,12 @@
 
 # HTML
 ### Syntax
-- Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
+- Use soft tabs with two spaces — they're the only way to guarantee code renders the same in any environment.
 - Nested elements should be indented once (two spaces).
 - Always use double quotes, never single quotes, on attributes.
-- Paragraphs of text should always be placed in a <p> tag. Never use multiple <br> tags.
+- Paragraphs of text should always be placed in a `<p>` tag. Never use multiple `<br>` tags.
 - Don't include a trailing slash in self-closing elements—the HTML5 spec says they're optional.
-- Don’t omit optional closing tags (e.g. </li> or </body>).
+- Don't omit optional closing tags (e.g. `</li>` or `</body>`).
 
 
 ### Boolean
