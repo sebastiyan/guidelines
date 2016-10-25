@@ -30,8 +30,6 @@ Many attributes don’t require a value to be set, like disabled or checked, so 
 .my-class-name {
 ```
 - HTML elements should be in lowercase
-- 
-
 
 # CSS
 
