@@ -24,9 +24,9 @@ color: #e5e5e5;
 # HTML
 ### Syntax
 - always use double quotes, never single quotes, on attributes;
-- paragraphs of text should always be placed in a <p> tag. Never use multiple <br> tags;
+- paragraphs of text should always be placed in a `<p>` tag. Never use multiple `<br>` tags;
 - don't include a trailing slash in self-closing elements—the HTML5 spec says they're optional;
-- don't omit optional closing tags (e.g. </li> or </body>).
+- don't omit optional closing tags (e.g. `</li>` or `</body>`).
 
 ### Lean Markup
 Whenever possible, avoid superfluous parent elements when writing HTML. Many times this requires iteration and refactoring, but produces less HTML. For example:
